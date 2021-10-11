@@ -1,21 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img
+          src="https://redux.js.org/img/redux.svg"
+          className="App-logo"
+          alt="logo"
+        />
+        <p>Welcome to Redux Tutorial.</p>
+
+        <p>Redux is a predictable state container for JavaScript apps.</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://redux.js.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Redux
         </a>
       </header>
     </div>
