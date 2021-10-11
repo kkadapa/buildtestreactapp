@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/buildtestreactapp/static/css/main.4ba9278b.chunk.css",
+    "main.css": "/buildtestreactapp/static/css/main.88216b9e.chunk.css",
     "main.js": "/buildtestreactapp/static/js/main.1c8fd578.chunk.js",
-    "main.js.map": "/buildtestreactapp/static/js/main.1c8fd578.chunk.js.map",
     "runtime-main.js": "/buildtestreactapp/static/js/runtime-main.dce46b00.js",
-    "runtime-main.js.map": "/buildtestreactapp/static/js/runtime-main.dce46b00.js.map",
     "static/js/2.19712622.chunk.js": "/buildtestreactapp/static/js/2.19712622.chunk.js",
-    "static/js/2.19712622.chunk.js.map": "/buildtestreactapp/static/js/2.19712622.chunk.js.map",
     "static/js/3.223bddf7.chunk.js": "/buildtestreactapp/static/js/3.223bddf7.chunk.js",
-    "static/js/3.223bddf7.chunk.js.map": "/buildtestreactapp/static/js/3.223bddf7.chunk.js.map",
     "index.html": "/buildtestreactapp/index.html",
-    "static/css/main.4ba9278b.chunk.css.map": "/buildtestreactapp/static/css/main.4ba9278b.chunk.css.map",
     "static/js/2.19712622.chunk.js.LICENSE.txt": "/buildtestreactapp/static/js/2.19712622.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/buildtestreactapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dce46b00.js",
     "static/js/2.19712622.chunk.js",
-    "static/css/main.4ba9278b.chunk.css",
+    "static/css/main.88216b9e.chunk.css",
     "static/js/main.1c8fd578.chunk.js"
   ]
 }
